@@ -6,7 +6,7 @@ Vous avez besoin de Tampermonkey :
 * [Mozilla Firefox et dérivés](https://addons.mozilla.org/fr/firefox/addon/tampermonkey/)
 * [Google Chrome et dérivés](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-Puis cliquez sur [ce lien](../../raw/main/dist/JVCompteur.user.js).
+Puis cliquez sur [ce lien](https://github.com/Packingdustry/JVCompteur/raw/refs/heads/main/JVCompteur.user.js).
 
 ## ⚠️ Avis ⚠️
 Script développé à l'aide de l'IA générative Gemini 3.1 Pro, peut contenir des erreurs.
